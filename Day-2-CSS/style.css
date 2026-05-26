@@ -17,17 +17,16 @@
     font-family: font4;
     src: url(./NeueMachina-Regular.woff2);
 }
-
-* {
+*   {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-html,
-body {
+}   
+html, body {
     height: 100%;
     width: 100%;
 }
+
 
 /* h1{
     color: brown;
@@ -61,3 +60,4 @@ div {
     font-size: 40px;
     color: rgb(224, 80, 44);
 }
+
